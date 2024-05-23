@@ -7,7 +7,7 @@
 
 XCL Theme Pico Blue : [https://xoopscube-themes.github.io/xcl-picocss-157](https://xoopscube-themes.github.io/xcl-picocss-157)
 
-![XCL Theme Pico Blue](,/screenshot.png)
+![XCL Theme Pico Blue](/screenshot.png)
 
 ---
 
